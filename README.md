@@ -5,9 +5,7 @@
 
 
 
-## 1. 访问该GitHub仓库获取免费节点：https://github.com/freefq/freehttps://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)
-
-![image-20220322133754339](https://gitee.com/dearvainycos/v_pic_bed/raw/master/img/image-20220322133754339.png)
+## 1. 访问该GitHub仓库获取免费节点：https://github.com/freefq
 
 第一步，下载[v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)，仓库里的README.md文件中有下载地址
 
@@ -82,4 +80,40 @@
 ## 3. [速蛙云](https://m.sw13.icu/auth/welcome)
 
 穷人工作室推荐的，本人暂未体验（据说性价比很高，1块钱就能体验，并送奈飞会员等）
+
+
+
+---
+
+以上均为PC端的fq，接下来介绍移动端的fq。
+
+
+
+# 移动端
+
+## 1. [Dukou](https://dukou.dev/)
+
+安卓环境：
+
+依旧是搭配Dukou，访问官网，下载Clash for Android
+
+![image-20220324091949827](https://gitee.com/dearvainycos/v_pic_bed/raw/master/img/image-20220324091949827.png)
+
+首先复制订阅链接，然后打开安装好的apk文件，配置->从URL导入，将url复制进去，自动更新可以自定义时间。
+
+设置好之后，直接点运行，在代理中可以自由选择节点。
+
+
+
+IOS环境：
+
+比安卓略微复杂一点，需要在App Store中下载Shadowrocket（仅支持非大陆账号下载：可以去tb电商平台搜索港区或者美区苹果账号，一般几块钱就能买一个）
+
+随后使用买到的非大陆苹果账号登录App Store（这里需要注意无需退出设置中的个人账号），搜索Shadowrocket直接下载，下载完成之后即可退出苹果账号，重新登录回自己的账号，后续若需要更新则要再次登录非大陆苹果账号。
+
+之后的步骤其实就跟上述差不多了，打开应用，点击右上角的加号，类型选择Subscribe，同样将在平台上复制的订阅链接粘贴进去
+
+![image-20220324093106623](https://gitee.com/dearvainycos/v_pic_bed/raw/master/img/image-20220324093106623.png)
+
+随后选择一个节点，打开连接，即可。
 
